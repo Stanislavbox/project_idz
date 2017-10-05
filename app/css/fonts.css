@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'Lobster1_4';
+	src: url('../fonts/Lobster1_4/Lobster_1_4.eot');
+	src: url('../fonts/Lobster1_4/Lobster_1_4.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/Lobster1_4/Lobster_1_4.woff') format('woff'),
+		 url('../fonts/Lobster1_4/Lobster_1_4.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'BebasNeue';
+	src: url('../fonts/BebasNeue/BebasNeue.eot');
+	src: url('../fonts/BebasNeue/BebasNeue.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/BebasNeue/BebasNeue.woff') format('woff'),
+		 url('../fonts/BebasNeue/BebasNeue.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: 'OpenSans';
+	src: url('../fonts/OpenSans/OpenSans.eot');
+	src: url('../fonts/OpenSans/OpenSans.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/OpenSans/OpenSans.woff') format('woff'),
+		 url('../fonts/OpenSans/OpenSans.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
